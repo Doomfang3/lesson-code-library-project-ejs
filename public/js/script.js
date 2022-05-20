@@ -1,7 +1,7 @@
 document.addEventListener(
-  "DOMContentLoaded",
+  'DOMContentLoaded',
   () => {
-    console.log("library-project JS imported successfully!");
+    console.log('library-project JS imported successfully!')
   },
   false
-);
+)
